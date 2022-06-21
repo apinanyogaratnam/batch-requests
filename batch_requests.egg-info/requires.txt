@@ -1,0 +1,5 @@
+aiohttp
+setuptools
+wheel
+tqdm
+twine
