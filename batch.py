@@ -30,5 +30,6 @@ class BatchRequest:
                 data = await response.json()
                 self.results.append(data)
 
+    # TODO: batch every 500 urls
     def run(self: 'BatchRequest'):
         asyncio.run(self.collect_responses())
