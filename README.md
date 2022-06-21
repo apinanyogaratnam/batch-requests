@@ -5,7 +5,7 @@ Make batch http requests.
 ## Usage
 
 ### Install package
-`pip install requests-batch` or `conda install requests-batch` or `pip3 install batch-requests`
+`pip install batch-requests` or `conda install batch-requests` or `pip3 install batch-requests`
 
 ```python3
 from batch import BatchRequest
