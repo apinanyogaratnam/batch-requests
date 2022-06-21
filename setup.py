@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='batch-requests',
-    version='0.1.0',
+    version='0.1.1',
     scripts=[],
     author="apinanyogaratnam",
     author_email="apinanapinan@icloud.com",
