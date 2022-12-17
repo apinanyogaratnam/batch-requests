@@ -1,5 +1,7 @@
 # Batch Requests
 
+[![Downloads](https://static.pepy.tech/personalized-badge/batch-requests?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/batch-requests)
+
 Make batch http requests.
 
 ## Usage
